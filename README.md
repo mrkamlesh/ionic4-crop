@@ -3,9 +3,9 @@
 
 Followed this [DJAM URL](https://www.djamware.com/post/5c9361e080aca754f7a9d1ef/ionic-4-angular-7-and-cordova-crop-and-upload-image)
 
-Install and Configure Image Crop, File Transfer Plugins, and Dependencies
+# Install and Configure Image Crop, File Transfer Plugins, and Dependencies
 
-If you already have a GitHub profile (obviously)
+
 
 
 `$ ionic cordova plugin add cordova-plugin-crop`
