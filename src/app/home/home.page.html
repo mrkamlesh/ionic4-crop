@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Ionic 4 Crop Upload
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card>
+    <img *ngIf="!fileUrl" src="assets/icon/favicon.png" />
+    <img *ngIf="fileUrl" src="{{fileUrl}}" />
+    <ion-card-content>
+      <ion-button color="medium" size="large" (click)="cropUpload()">
+        <ion-icon slot="icon-only" name="camera"></ion-icon>
+      </ion-button>
+    </ion-card-content>
+  </ion-card>
+</ion-content>
