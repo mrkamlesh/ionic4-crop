@@ -3,7 +3,7 @@
 
 Followed this [DJAM URL](https://www.djamware.com/post/5c9361e080aca754f7a9d1ef/ionic-4-angular-7-and-cordova-crop-and-upload-image)
 
-GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
+Install and Configure Image Crop, File Transfer Plugins, and Dependencies
 
 If you already have a GitHub profile (obviously)
 
